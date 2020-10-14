@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22373ef9-1ce5-4a6b-8683-99a8445637e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1gSkbbTQw0UXNTgfEj85KeKp2lT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="E:/mine/XAMPP/htdocs" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22373ef9-1ce5-4a6b-8683-99a8445637e2" name="Default Changelist" comment="" />
+      <created>1598115454941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598115454941</updated>
+      <workItem from="1598115463234" duration="235000" />
+      <workItem from="1598115735804" duration="1706000" />
+      <workItem from="1598882398285" duration="604000" />
+      <workItem from="1599071368478" duration="896000" />
+      <workItem from="1599381515552" duration="1049000" />
+      <workItem from="1599410503524" duration="1213000" />
+      <workItem from="1599411747171" duration="186000" />
+      <workItem from="1600771885269" duration="3547000" />
+      <workItem from="1600833069340" duration="1259000" />
+      <workItem from="1601020043726" duration="1797000" />
+      <workItem from="1601224102551" duration="452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="779" y="231" width="451" height="618" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1598116040861">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="779" y="231" width="451" height="618" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598116040861" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1599411560800">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599411560800" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1598115700105">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1598115700105" />
+    <state x="661" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1598115557338">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598115557338" />
+  </component>
+</project>
